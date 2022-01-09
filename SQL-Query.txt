@@ -1,0 +1,2 @@
+create table Product_dtls(pcode varchar2(10),pname varchar2(15),
+pprice number(10,2),pqty number(10),primary key(pcode));
